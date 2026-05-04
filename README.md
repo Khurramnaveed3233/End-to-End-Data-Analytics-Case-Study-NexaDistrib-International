@@ -1,13 +1,13 @@
 # 🚚 Global Supply Chain Performance & Optimization Analytics
 
-## 📌 Project Overview
+##  Project Overview
 Designed and implemented an **end-to-end supply chain analytics solution** to identify operational inefficiencies and improve business performance across procurement, inventory, and delivery.
 
 👉 Objective: Transform raw operational data into **actionable business decisions** with measurable impact.
 
 ---
 
-## 🌍 Business Context
+## Business Context
 A global distribution company operating with:
 
 - 20+ Suppliers  
@@ -39,7 +39,7 @@ The organization was facing critical operational challenges:
 
 ---
 
-## 🗂️ Data Model
+##  Data Model
 
 Designed an **end-to-end relational data model**:
 
@@ -50,9 +50,9 @@ Suppliers → Purchase Orders → Warehouses → Inventory → Customers → Sal
 
 ---
 
-## 🧠 Analytical Approach
+##  Analytical Approach
 
-### 🎯 Objective:
+###  Objective:
 Solve 8 core business problems using data
 
 ### 🛠️ Tools:
@@ -60,7 +60,7 @@ Solve 8 core business problems using data
 - Power BI  
 - Excel  
 
-### ⚙️ Techniques Used:
+###  Techniques Used:
 - CTEs for multi-step analysis  
 - Window Functions for ranking & trend detection  
 - Aggregations for KPI computation  
@@ -70,7 +70,7 @@ Solve 8 core business problems using data
 
 ---
 
-## 📊 Solution — Power BI Dashboard
+##  Solution — Power BI Dashboard
 
 Developed a **4-page executive dashboard**:
 
