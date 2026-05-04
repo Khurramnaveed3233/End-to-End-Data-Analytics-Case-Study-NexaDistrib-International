@@ -1,4 +1,4 @@
-# 🚚 Global Supply Chain Performance & Optimization Analytics
+# Global Supply Chain Performance & Optimization Analytics
 
 ##  Project Overview
 Designed and implemented an **end-to-end supply chain analytics solution** to identify operational inefficiencies and improve business performance across procurement, inventory, and delivery.
