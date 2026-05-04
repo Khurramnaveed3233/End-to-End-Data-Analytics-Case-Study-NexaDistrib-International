@@ -188,4 +188,4 @@ This project demonstrates:
 
 - GitHub Repository  
 - Power BI Dashboard  
-- LinkedIn  
+- [LinkedIn](https://www.linkedin.com/in/khurram-naveed-0083851aa/)
