@@ -187,5 +187,5 @@ This project demonstrates:
 ## 🔗 Portfolio Links
 
 - GitHub Repository  
-- Power BI Dashboard  
+- Portfolio 
 - [LinkedIn](https://www.linkedin.com/in/khurram-naveed-0083851aa/)
