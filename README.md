@@ -81,9 +81,12 @@ Developed a **4-page executive dashboard**:
 
 <img width="1536" height="1024" alt="page 1" src="https://github.com/user-attachments/assets/b039e735-27e6-4b73-aa93-fb14fbf0f813" />
 
+
 <img width="1536" height="1024" alt="page 2" src="https://github.com/user-attachments/assets/2fe70e27-3762-428d-bdac-3d2a97fc0ef5" />
 
+
 <img width="1536" height="1024" alt="page 3" src="https://github.com/user-attachments/assets/c13d0423-d361-493c-a247-7fc4c72345b5" />
+
 
 <img width="1536" height="1024" alt="page 4" src="https://github.com/user-attachments/assets/bb408050-0850-4802-8ab8-d96a69fb32a3" />
 
