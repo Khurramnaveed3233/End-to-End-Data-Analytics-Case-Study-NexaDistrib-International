@@ -1,5 +1,8 @@
 # Global Supply Chain Performance & Optimization Analytics
 
+<img width="1536" height="1024" alt="Thumbnail dashboard" src="https://github.com/user-attachments/assets/2c262c0c-6025-4bbd-aafa-920c9bdcc35f" />
+
+
 ##  Project Overview
 Designed and implemented an **end-to-end supply chain analytics solution** to identify operational inefficiencies and improve business performance across procurement, inventory, and delivery.
 
