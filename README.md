@@ -448,9 +448,7 @@ Dashboard Consumer  →  Business Problem Solver
 ## 🔗 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khurram-naveed-0083851aa/)
-- 🗂️ Portfolio
-- 💻 GitHub Repository
-
+- 🗂️ [Portfolio](https://khurramnaveed3233.github.io/Portfolio-/)
 ---
 
 *Built with SQL Server · Power BI · Excel*  
